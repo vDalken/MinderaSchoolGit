@@ -16,4 +16,7 @@ Quando duas ou mais pessoas alteram o mesmo arquivo em branches diferentes. O
 conflict simboliza que duas ou mais alterações aconteceram no mesmo arquivo e 
 o git não sabe qual das alterações manter.
 # Pull Request
-
+> Pull Request
+Pull Request is like a notification. 
+Basically, PR is a mechanism which the programmer signals that he has finished developing a feature.
+And expect an analysis of the code.
