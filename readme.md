@@ -14,6 +14,7 @@ make different versions of the main branch. That allows the developers to write 
 and creating problems. This way, the project is organized in different versions, versions that we can then merge with
 the main branch and make permanent changes. 
 # Commit
+##Similar to saving a file that's been edited, a commit records changes to one or more files in your branch. Git assigns each commit a unique ID, called a SHA or hash, that identifies: The specific changes. When the changes were made.T
 # Push
 ## The git push command is used to upload LOCAL repository content to a REMOTEe repository. Pushing is how you transfer commits from your local repository to a remote repo.
 # Pull
