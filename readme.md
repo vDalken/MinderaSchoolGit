@@ -12,11 +12,10 @@ In Git terms, a "checkout" is the act of switching between different versions of
 # Merge
 In a pull request, you propose that changes you've made on a head branch should be merged into a base branch. By default, any pull request can be merged at any time, unless the head branch is in conflict with the base branch. However, there may be restrictions on when you can merge a pull request into a specific branch. For example, you may only be able to merge a pull request into the default branch if required status checks are passing. Repository administrators can add constraints like this to branches using branch protection rules or repository rulesets.
 # Conflict
-Quando duas ou mais pessoas alteram o mesmo arquivo em branches diferentes. O 
-conflict simboliza que duas ou mais alterações aconteceram no mesmo arquivo e 
-o git não sabe qual das alterações manter.
+When two or more people change the same file in different branches. The 
+conflict symbolizes that two or more changes have been made to the same 
+file and git doesn't know which of the changes to keep.
 # Pull Request
-> Pull Request
 Pull Request is like a notification. 
 Basically, PR is a mechanism which the programmer signals that he has finished developing a feature.
 And expect an analysis of the code.
