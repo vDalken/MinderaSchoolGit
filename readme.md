@@ -12,5 +12,6 @@
 # Conflict
 # Pull Request
 > Pull Request
-O Pull Request é como uma notificação. 
-Basicamente, o PR é um mecanismo no qual o programador sinaliza que concluiu o desenvolvimento de uma feature.
+Pull Request is like a notification. 
+Basically, PR is a mechanism which the programmer signals that he has finished developing a feature.
+And expect an analysis of the code.
